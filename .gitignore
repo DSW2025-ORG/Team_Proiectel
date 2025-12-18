@@ -1,12 +1,53 @@
-venv/
-.env/
-data/
-*.csv
-*.parquet
-*.xlsx
-.ipynb_checkpoints/
+# ----------------------------
+# Python
+# ----------------------------
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# ----------------------------
+# Jupyter
+# ----------------------------
+.ipynb_checkpoints/
+
+# Large exported notebooks
+*.nbconvert.ipynb
+
+# ----------------------------
+# VS Code
+# ----------------------------
 .vscode/
+*.code-workspace
+
+# ----------------------------
+# Credentials & secrets
+# ----------------------------
+credentials.py
+*.env
+secret*.json
+token*.json
+
+# ----------------------------
+# Data files (optional)
+# Comment these out if you want to track data
+# ----------------------------
+*.csv
+*.xlsx
+*.json
+*.parquet
+data/
+
+# ----------------------------
+# System files
+# ----------------------------
 .DS_Store
 Thumbs.db
