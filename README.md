@@ -94,7 +94,7 @@ converted to comparable units.
 **(B) World Development Indicators (WDI), World Bank**
 
 Collected automatically through API requests and cleaned in\
-*02_wdi_data_Valentin Vasile.ipynb* and
+*02_wdi_data_Valentina Vasile.ipynb* and
 *03_wdi_curatare_ValentinaV.ipynb*.
 
 **Indicators:**
@@ -193,7 +193,7 @@ Main tasks:
 **Student 2 - WDI data**
 
 Notebooks:\
-*02_wdi_data_Valentin Vasile.ipynb*,\
+*02_wdi_data_Valentina Vasile.ipynb*,\
 *03_wdi_curatare_ValentinaV.ipynb*
 
 Tasks:
