@@ -21,7 +21,7 @@ dual pressure of reducing greenhouse gas (GHG) emissions while ensuring
 economic growth and increasing the share of renewable energy. This
 challenge is intensified by the legacy of fossil-fuel-dependent energy
 systems and recent policy developments such as the *European Green Deal*
-(2019).
+(2019). The production and use of energy account for more than 75% of the EU’s greenhouse gas emissions. Decarbonising the EU’s energy system is therefore critical to reach our 2030 climate objectives and the EU’s long-term strategy of achieving carbon neutrality by 2050.  
 
 Our project investigates the relationship between:
 
